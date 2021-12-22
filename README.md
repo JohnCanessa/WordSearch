@@ -8,7 +8,7 @@ otherwise return false.
 
 If interested in my comments I invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/23/leetcode-79-word-search-in-java/
 
 Keep in mind that one of the best ways to learn is to read and experiment.
 Practice makes perfect.
